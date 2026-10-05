@@ -1,6 +1,6 @@
 # Starbie firmware
 
-Open [`Starbie/Starbie.ino`](Starbie/Starbie.ino) in Arduino IDE. It is the entire firmware in one beginner-editable file—there is no custom library or PlatformIO setup to manage.
+Open [`Starbie/Starbie.ino`](Starbie/Starbie.ino) in Arduino IDE. It is the entire firmware in one beginner-editable file. There is no custom library or PlatformIO setup to manage.
 
 The first part of the file is **BEGINNER SETTINGS**. It contains the pins, optional DHT11 switch, starting stats, radial-menu actions and reactions, motion settings, and the pet bitmap. The menu automatically treats the position where Button 1 opens it as centered; `SWAP_MPU_AXES`, `MENU_X_DIRECTION`, and `MENU_Y_DIRECTION` handle any physical MPU6050 orientation. Everything below that works automatically.
 

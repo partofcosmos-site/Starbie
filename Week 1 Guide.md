@@ -173,7 +173,7 @@ The ESP32 package URL, ESP32 Boards Manager install, and XIAO_ESP32C3 board sele
 | Button 2 | Shows or hides the stats screen |
 | Shake while seeing the pet | Gives Starbie its shake reaction |
 
-The normal screen deliberately has no name or visible values—just the wandering pet. **NAP** stops it and emits drifting `z`s until it wakes after a short time or a shake. **PLAY** makes it sprint two quick left-to-right-to-left laps with hearts, while **PET** makes hearts float upward. Other actions do a short wiggle and jump.
+The normal screen deliberately has no name or visible values, just the wandering pet. **NAP** stops it and emits drifting `z`s until it wakes after a short time or a shake. **PLAY** makes it sprint two quick left-to-right-to-left laps with hearts, while **PET** makes hearts float upward. Other actions do a short wiggle and jump.
 
 ### Make it yours
 
@@ -226,7 +226,7 @@ const MenuItem MENU_ITEMS[] = {
 {"DANCE", 15, -12, -3, JUMP_REACTION},  // left
 ~~~
 
-Keep the menu at four items for now—the drawing code is set up for one item in each direction. Make the labels short so they fit in the OLED boxes.
+Keep the menu at four items for now. The drawing code is set up for one item in each direction. Make the labels short so they fit in the OLED boxes.
 
 #### 3. Add one special effect
 

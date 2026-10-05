@@ -1,0 +1,8 @@
+# Starbie local build and recording artifacts
+recordings/
+*.mp4
+*.wav
+*.log
+seq_frames/
+__pycache__/
+*.pyc
