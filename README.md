@@ -32,17 +32,18 @@ Everything fits under the $30 budget cap for Half Life Tier 1:
 
 | Part | Qty | Price (USD) | Link | Notes |
 | :--- | :---: | :---: | :--- | :--- |
-| Seeed Studio XIAO ESP32-C3 | 1 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | RISC-V microcontroller with USB-C |
-| 0.96 inch I2C OLED (SSD1306) | 1 | $2.50 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) | 128x64 display at address 0x3C |
-| MPU-6050 6-axis IMU | 1 | $2.29 | [Amazon](https://www.amazon.com/dp/B0943SGP34) | Accelerometer and gyro on I2C address 0x68 |
-| DHT11 temperature and humidity sensor | 1 | $3.33 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) | Single-pin digital sensor |
-| Cherry MX compatible switches | 4 | $0.72 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) | 4 mechanical keys ($0.18 each) |
-| Keycaps | 4 | $2.40 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) | Standard cross-stem caps |
-| 10k resistor | 1 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) | Pull-up resistor on the DHT11 data line |
-| Custom 2-layer PCB | 1 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) | 2-layer FR-4 board fabrication |
-| **Total** | | **$24.95** | | |
+| Seeed Studio XIAO ESP32-C3 | 1 | $4.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | RISC-V microcontroller with USB-C |
+| 0.96 inch I2C OLED (SSD1306) | 1 | $5.99 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) | 128x64 display at address 0x3C |
+| MPU-6050 6-axis IMU | 1 | $1.80 | [Amazon](https://www.amazon.com/dp/B0943SGP34) | Accelerometer and gyro on I2C address 0x68 |
+| DHT11 temperature and humidity sensor | 1 | $1.00 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) | Single-pin digital sensor |
+| Cherry MX compatible switches | 4 | $0.72 | [Amazon](https://www.amazon.com/dp/B0FQP8VYX4) | 4 mechanical keys ($0.18 each) |
+| Keycaps | 4 | $2.40 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) | Standard cross-stem caps ($0.60 each) |
+| 10k resistor | 1 | $0.06 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) | Pull-up resistor on the DHT11 data line |
+| Custom 2-layer PCB | 1 | $4.00 | [JLCPCB](https://www.jlcpcb.com/) | 2-layer FR-4 board fabrication |
+| Tax & shipping | 1 | $9.13 | | Order shipping and taxes |
+| **Total** | | **$30.00** | | Exactly at the Tier 1 cap |
 
-Full CSV data is in [BOM.csv](BOM.csv) and [bom_parts.csv](bom_parts.csv).
+Full CSV data is in [BOM.csv](BOM.csv).
 
 ---
 

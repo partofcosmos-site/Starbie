@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Imported Parts") (type "KiCad") (uri "${KIPRJMOD}/PCB/libs/Imported Parts.pretty") (options "") (descr "Starbie Imported Footprints"))
+	(lib (name "Seeed_Studio_XIAO_Series") (type "KiCad") (uri "${KIPRJMOD}/PCB/libs/Imported Parts.pretty") (options "") (descr "Seeed Studio XIAO Footprints"))
+)

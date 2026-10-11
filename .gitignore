@@ -6,3 +6,9 @@ recordings/
 seq_frames/
 __pycache__/
 *.pyc
+
+# KiCad personal project local settings and backups
+*.kicad_prl
+*-bak
+*.bak
+*.bck
